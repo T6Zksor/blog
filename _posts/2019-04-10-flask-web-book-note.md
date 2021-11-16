@@ -11,23 +11,18 @@ tags:
 1. virtualenv in py3.7  
 1.1 init virtualenv  
 
-
-```sh
+``` sh
 python -m venv <env-name>
 ```
 
-
-    python -m venv <env-name>
-
-
 1.2 activate virtualenv  
 
-```sh
+``` sh
 Scripts/activate.bat
 ```
 
 1.3 deactivate virtualenv  
 
-```sh
+``` sh
 Scripts/deactivate.bat
 ```
