@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [翻译]高效现代 C++ 编程 - 前言
+title:  (翻译)高效现代 C++ 编程 - 前言
 date: 2018-04-06 17:54:59 +0000
 tags:
   notes
