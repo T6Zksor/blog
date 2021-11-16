@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [翻译]高效现代 C++ 编程 - 条款1：理解模板类型推导 (Understand template type deduction)
+title:  (翻译)高效现代 C++ 编程 - 条款1：理解模板类型推导 (Understand template type deduction)
 date: 2018-04-06 18:00:59 +0000
 tags:
   notes
