@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  C1002: Compiler is out of heap space in pass 2
+title:  C1002 Compiler is out of heap space in pass 2
 date: 2019-05-22 00:01:00 +0000
 tags:
   cpp
